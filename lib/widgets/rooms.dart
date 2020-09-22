@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_facebook_responsive_ui/widgets/profile_avatar.dart';
+import 'package:FlutterFacebookUi/widgets/profile_avatar.dart';
 
 import '../models/user_model.dart';
 

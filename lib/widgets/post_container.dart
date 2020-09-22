@@ -1,8 +1,9 @@
+import 'package:FlutterFacebookUi/config/palette.dart';
+import 'package:FlutterFacebookUi/models/post_model.dart';
+import 'package:FlutterFacebookUi/widgets/profile_avatar.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_facebook_responsive_ui/config/palette.dart';
-import 'package:flutter_facebook_responsive_ui/models/post_model.dart';
-import 'package:flutter_facebook_responsive_ui/widgets/profile_avatar.dart';
+
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class PostContainer extends StatelessWidget {

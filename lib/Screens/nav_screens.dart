@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_facebook_responsive_ui/Screens/HomeScreen.dart';
-import 'package:flutter_facebook_responsive_ui/widgets/custom_tab_bar.dart';
+import 'package:FlutterFacebookUi/Screens/HomeScreen.dart';
+import 'package:FlutterFacebookUi/widgets/custom_tab_bar.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class NavScreen extends StatefulWidget {

@@ -1,5 +1,5 @@
+import 'package:FlutterFacebookUi/config/palette.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_facebook_responsive_ui/config/palette.dart';
 
 class CustomTabBar extends StatelessWidget {
   final List<IconData> icons;

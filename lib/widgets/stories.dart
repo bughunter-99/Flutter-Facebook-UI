@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_facebook_responsive_ui/widgets/profile_avatar.dart';
+import 'package:FlutterFacebookUi/widgets/profile_avatar.dart';
 
 import '../models/models.dart';
 

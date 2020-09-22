@@ -1,7 +1,5 @@
+import 'package:FlutterFacebookUi/Screens/nav_screens.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_facebook_responsive_ui/Screens/nav_screens.dart';
-
-import 'Screens/HomeScreen.dart';
 
 void main() {
   runApp(MyApp());
