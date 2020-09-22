@@ -2,9 +2,9 @@
 
 ## Facebook UI with Flutter:
 
-[Home](https://i.imgur.com/Hj0uZNu.png)
-[Posts](https://i.imgur.com/Mmq4sBH.png)
-[Posts](https://i.imgur.com/mMTkJYf.png)
+![Home](https://i.imgur.com/Hj0uZNu.png)
+![Posts](https://i.imgur.com/Mmq4sBH.png)
+![Posts](https://i.imgur.com/mMTkJYf.png)
 
 ### Complete :heavy_check_mark: :
 
